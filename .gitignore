@@ -1,0 +1,11 @@
+# Mengabaikan virtual environment
+.venv/
+env/
+chatbot-ai/
+
+# Mengabaikan file credential/konfigurasi rahasia
+.env
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
